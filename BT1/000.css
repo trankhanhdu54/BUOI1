@@ -1,0 +1,21 @@
+article{
+	width: 499px;
+	height: 500px;
+	border: 1px solid blue;
+	background: url(bg.png);
+}
+img {
+	border-bottom: 1px solid blue;
+}
+a {
+	text-decoration: none;
+	font-size: 24px;
+	color: black;
+	font-weight: bold;
+}
+a:hover{
+	color: blue;	
+}
+p {
+	text-align: justify-all;
+}

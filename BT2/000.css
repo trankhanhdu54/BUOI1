@@ -1,0 +1,25 @@
+article{
+	width: 340px;
+	height: 518;
+	border: 1px solid blue;
+	background-color: #c1c1c1;
+}
+img {
+	border-bottom: 1px solid blue;
+}
+a {
+	text-decoration: none;
+	font-size: 24px;
+	color: black;
+	font-weight: bold;
+}
+a:hover{
+	color: blue;	
+}
+p {
+	text-align: justify;
+	font-weight: bolder;
+}
+p {
+    font-weight: bolder;	
+}
